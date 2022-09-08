@@ -1,0 +1,13 @@
+body {
+  background-image: url(../public/background.jpg);
+  background-size: 100%;
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: Arial,Helvetica,sans-serif;
+}
